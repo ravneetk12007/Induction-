@@ -1,3 +1,18 @@
+# ravneetcoder.github.io
+## activity report of student induction program batch 2024
+**PROFILE**: Ravneet Kaur
+## **PERSONAL INFORMATION**
+- **Name**: Harkamal Preet Kaur 
+
+- **Age**: 18
+
+- **Education**: Pursuing B.tech in Computer and Science Engineering 
+
+## Class +2 details 
+- *I have completed my senior secondary from Gurpreet Holy Heart Public School Mehal Kalan,Distt. Barnala with overall percentage of 92%.*
+## Contact Details 
+- **E-MAIL**: harkamal977@gmail.com
+# My Experience at GNDEC
 # Induction Program — Day 1 Highlights
 **Date:** 31 July 2025
 
